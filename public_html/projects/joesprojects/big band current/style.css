@@ -1,0 +1,44 @@
+/**CSS**/
+
+/**navbar**/
+.mynav {
+  background-color: #ecf0f1;
+  color: black;
+
+
+  font-size: 100%;
+  width: 100%;
+}
+
+.mynav, a {
+  color: white;
+}
+
+.mynav, a:link, a:visited {
+    background-color: rgba(0,0,0,);
+    color: black;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+ a:hover, a:active {
+    /*background-color: #212121;*/
+}
+
+.nava:hover {
+  background-color: #95a5a6;
+}
+
+.mylogo {
+padding: 0px 0px;
+float: left;
+font-size: 120%;
+}
+
+/**End nav bar**/
+
+/**Hero image**/
+
+/**End of hero image**/
