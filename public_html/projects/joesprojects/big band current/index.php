@@ -34,3 +34,9 @@
 <!--Start hero-image-->
 
   <?php include "hero.php"; ?>
+
+<!--end hero image-->
+
+<!--About Section -->
+  <?php include "about.php"; ?>
+<!-- end about section-->
