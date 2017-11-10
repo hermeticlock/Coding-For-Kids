@@ -1,0 +1,38 @@
+.hero {
+  height: 100%;
+  background: linear-gradient(rgba(184,0,0,1), rgba(230,110,0,1));
+  background-image: url('https://image.ibb.co/fLBTBa/Untitled_design_1.png');
+  background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.learnMore {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #126294);
+  background-image: -moz-linear-gradient(top, #3498db, #126294);
+  background-image: -ms-linear-gradient(top, #3498db, #126294);
+  background-image: -o-linear-gradient(top, #3498db, #126294);
+  background-image: linear-gradient(to bottom, #3498db, #126294);
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  text-shadow: 1px 1px 7px #170817;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 34px;
+  padding: 12px 22px 12px 22px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+.learnMore:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}

@@ -3,9 +3,9 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
+  <link rel="stylesheet" href="https://daneden.github.io/animate.css/animate.min.css" />
 	<link href='http://fonts.googleapis.com/css?family=Jaldi:700,400' rel='stylesheet' type='text/css'>
-
+  <link rel="stylesheet" href="https://ustymukhman.github.io/Dynamic.css/css/dynamic.min.css" />
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
@@ -17,15 +17,15 @@
 		<ul class="cd-slider">
 			<li class="visible">
 				<div>
-					<h2>Brentwood Big Band</h2>
-					<p>We bring Jazz to Brentwood, CA!</p>
-					<a href="#" class="cd-btn">Contact Us</a>
+					<h2 class="wow dynamic starWarsBackUp">Brentwood Big Band</h2>
+					<p class="wow dynamic stairsInRight">We bring Jazz to Brentwood, CA!</p>
+					<a href="#" class="wow cd-btn dynamic hopInLeft">Contact Us</a>
 				</div>
 			</li>
 
 			<li>
 				<div>
-					<h2>We Play For Events</h2>
+					<h2 class="wow dynamic spinZIn">We Play For Events</h2>
 					<p>Reach out to us for booking info.</p>
 					<a href="#" class="cd-btn">Learn more</a>
 				</div>
