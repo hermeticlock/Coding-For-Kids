@@ -36,3 +36,20 @@
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+
+.arrow {
+  font-size: 200%;
+  color: black;
+  display: none;
+  text-decoration: none;
+}
+
+
+.contactsection {
+  height: 100%;
+  background-color: #ecf0f1;
+}
+
+.contactarea {
+  display:  none;
+}
