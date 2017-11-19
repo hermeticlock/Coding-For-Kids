@@ -34,6 +34,11 @@
   <img class="animated pulse infinite logo" src="CODINGFORKIDS.png" />
   <br />
   <button class="learnMore js-modal-btn js-video-vimeo-btn" data-video-id="242317449" id="triggerbtn">Learn More!</button>
+  <br />
+  <br />
+  <br />
+  <a href="#scrolltotext"><button class="seetext" id="triggerbtn2">See Text Version!</button></a>
+
   <script>
   			window.addEventListener('DOMContentLoaded',function(){
   				new ModalVideo(".js-video-vimeo-btn",{channel:'vimeo'});
@@ -44,7 +49,72 @@
 </center>
 </div>
 
+<div class="textVersion" id="scrolltotext">
+    <div class="container">
+    <h1 align="center">Welcome to Codingforkids.us!</h1>
+    <hr />
+<p>
 
+If you're reading this, it's because you've found one of our ads on Facebook, or I have personally reached out to you because I've enjoyed working with you or your child in the past.
+</p>
+
+<p>
+If you're the parent of a child that has taken one of my classes, that means that your child excelled in my course, and I believe that if they keep on learning how to code, they will develop a set of highly marketable career skills in the modern world. I chose not to contact everyone so if you're here you were specifically chosen.
+</p>
+<p>
+First of all, Who am I? My name is Joe Rezendes, my students know me as Mr. Joe.
+</p>
+<p>
+First and foremost, I'm curious person. I have a drive to learn how to world around me works.
+</p>
+<p>
+Secondly, I am a Musician. I am a professional trombone player that plays all around the East Bay playing funk, jazz, and orchestrial music.
+</p>
+<p>
+Third, I'm a teacher. By the time I was out of highschool I had taught over 150 of my peers how to march in a marching band, and had developed a 6 week long seminar on leadership skills to train my replacements.
+</p>
+<p>
+Lastly, I am a web developer and digital marketer. I've been in the digital marketing space for two years and have worked with clients all over the Bay Area.
+</p>
+<p>
+I've built websites for community groups, local businesses, causes, events, and more. I have several personal webpages that I update every week, each with it's own following.
+</p>
+<p>
+I've worked with philosophical authors such as Marty Leeds to create different web tools that help them with their work.
+</p>
+<p>
+I specialize in Front-End Web Development, and for the last few years I've taught over 50 kids in the 4th and 5th grade how to code basic html and css.
+</p>
+<p>
+Throughout this process I learned many things, but to me, the most important thing was that as my class sizes increased, the level of attention I was able to give my students decreased.
+</p>
+<p>
+The students in the smallest classes were always able to get the most amount done.
+</p>
+<p>
+Because of this, I am now starting individual lessons and one on one learning.
+</p>
+<p>
+If your child is excited about learning how to create websites, or if you want to give your child an oppertunity to create a stable future for themselves then this is the program for you.
+</p>
+<p>
+These one on one sessions are highly individualized - and that's the way learning web development should be. Students in this program will be creating modern websites about subjects they're interested in, and they will learn how to market them to a world wide audience.
+</p>
+<p>
+The coding languages and libraries I will be covering are Html 5, CSS 3, Jquery, Jquery UI, Bootstrap, Javascript, Reactjs, Git, commandline, NPM, and more!
+</p>
+<p>
+These are the languages that the modern web runs on today. My curriculum is always up to date with the latest and greatest technology.
+</p>
+<p>
+The starting salary for a Junior front end web-developer is 52,482, and the median income for experienced front-end developers is 84,806.
+</p>
+<p>
+If you're interested in preparing your child for the future, or if you'd simply like to learn more, please either fill out the contact form below, or call/text me at the number provided below.
+</p>
+
+    </div>
+</div>
 
 
 
